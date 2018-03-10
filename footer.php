@@ -64,7 +64,7 @@ $enable_copyright = get_theme_mod( 'tyche_enable_copyright', true );
 	<!-- added by me -->
 						<div id="payment-options"> 
           
-          <img src="http://www.lucyshopping.com/wp-content/uploads/2018/02/visa.png" alt="visa" title="visa">
+          <img src="http://www.pixawear.com/wp-content/uploads/2018/02/visa.png" alt="visa" title="visa">
            
           
           <img src="http://www.pixawear.com/wp-content/uploads/2018/02/mastercard.png" alt="mastercard" title="mastercard">

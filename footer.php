@@ -67,25 +67,25 @@ $enable_copyright = get_theme_mod( 'tyche_enable_copyright', true );
           <img src="http://www.lucyshopping.com/wp-content/uploads/2018/02/visa.png" alt="visa" title="visa">
            
           
-          <img src="http://www.lucyshopping.com/wp-content/uploads/2018/02/mastercard.png" alt="mastercard" title="mastercard">
+          <img src="http://www.pixawear.com/wp-content/uploads/2018/02/mastercard.png" alt="mastercard" title="mastercard">
            
           
-          <img src="http://www.lucyshopping.com/wp-content/uploads/2018/02/discover.png" alt="discover" title="discover">
+          <img src="http://www.pixawear.com/wp-content/uploads/2018/02/discover.png" alt="discover" title="discover">
            
           
-          <img src="http://www.lucyshopping.com/wp-content/uploads/2018/02/google.png" alt="google" title="google">
+          <img src="http://www.pixawear.com/wp-content/uploads/2018/02/google.png" alt="google" title="google">
            
           
-          <img src="http://www.lucyshopping.com/wp-content/uploads/2018/02/paypal.png" alt="paypal" title="paypal">
+          <img src="http://www.pixawear.com/wp-content/uploads/2018/02/paypal.png" alt="paypal" title="paypal">
           
           
-          <img src="http://www.lucyshopping.com/wp-content/uploads/2018/02/amex.png" alt="amex" title="amex">
+          <img src="http://www.pixawear.com/wp-content/uploads/2018/02/amex.png" alt="amex" title="amex">
            
           
-          <img src="http://www.lucyshopping.com/wp-content/uploads/2018/02/cirrus.png" alt="cirrus" title="cirrus">
+          <img src="http://www.pixawear.com/wp-content/uploads/2018/02/cirrus.png" alt="cirrus" title="cirrus">
           
           
-          <img src="http://www.lucyshopping.com/wp-content/uploads/2018/02/maestro.png" alt="maestro" title="maestro">
+          <img src="http://www.pixawear.com/wp-content/uploads/2018/02/maestro.png" alt="maestro" title="maestro">
            
         </div>
 						
@@ -97,6 +97,23 @@ $enable_copyright = get_theme_mod( 'tyche_enable_copyright', true );
 			</div>
 		</div>
 	</footer><!-- / Copyright -->
+
+<!-- Start of StatCounter Code for WordPress (either .com or .org) -->
+<script type="text/javascript">
+var sc_project=11651795;
+var sc_invisible=1;
+var sc_security="25bb7415";
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="http://statcounter.com/" target="_blank"><img class="statcounter"
+src="//c.statcounter.com/11651795/0/25bb7415/1/" alt="Web
+Analytics"></a></div></noscript>
+<!-- End of StatCounter Code for WordPress (either .com or .org) -->
+
+
+
 <?php endif; ?>
 </div><!-- #page -->
 

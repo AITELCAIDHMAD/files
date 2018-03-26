@@ -1,0 +1,12 @@
+#styled_video{
+	 width:100%;
+	/* height:425px;*/
+	height:525px;
+	background-color:gray;
+}
+
+#styled_video_container{
+	
+}
+ .page-title-shop h1 { display: none }
+ .bk-cbox-btn-position{ display: none; background-color:yellow;}
